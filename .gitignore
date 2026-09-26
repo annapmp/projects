@@ -5,5 +5,8 @@ __pycache__/
 .venv/
 venv/
 .env
+!.env.example
 # raw, uncompressed data (commit the .csv.gz instead)
 *.csv
+!llm-product-description-eval/data/*.csv
+~$*
