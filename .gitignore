@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# raw, uncompressed data (commit the .csv.gz instead)
+*.csv
