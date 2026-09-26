@@ -17,6 +17,3 @@ Each project is self-contained in its own folder, with:
 - `data/`: the dataset, or instructions for getting it
 - `requirements.txt`: the Python dependencies
 
-## Contact
-
-**Anna Jusufova** · [GitHub](https://github.com/annapmp)
