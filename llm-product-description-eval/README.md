@@ -14,7 +14,7 @@ This project is an end-to-end pipeline that uses open-weight LLMs to **generate 
 - an automated **LLM-as-a-judge** with structured output
 - an analysis of how far the judge can be trusted compared with human raters
 
-**Authors:** Anna Yusufova & Daniel Davidson
+**Author:** Anna Yusufova
 
 ---
 

@@ -14,7 +14,7 @@ This project implements the core machinery of model training **by hand, using on
 
 ➡️ **[Open the notebook](notebooks/optimization_from_scratch.ipynb)**
 
-**Authors:** Anna Yusufova & Daniel Davidson
+**Author:** Anna Yusufova
 
 ---
 
