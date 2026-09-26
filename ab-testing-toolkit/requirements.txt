@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+tqdm
+ssrm-test
+msprt
+causalinference
+causalml
+dowhy
+doubleml
+pycausalimpact
+yfinance
+jupyter
